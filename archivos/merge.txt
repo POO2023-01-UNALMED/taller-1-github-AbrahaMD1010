@@ -1,1 +1,3 @@
 Mi nombre es Abraham David Miguel Cardenas, tengo 18 años. Mis aspiraciones con la materia POO es aprender mucho sobre POO.
+¿Por qué es importante tener cuidado con modificar dos archivos al mismo tiempo?
+Porque pueden ocurrir errores como de sobreescritura de datos o daños de archivos que trunquen el funcionamiento del codigo
