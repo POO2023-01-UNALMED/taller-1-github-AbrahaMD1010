@@ -1,0 +1,2 @@
+¿Por qué ahora si puedo crear un commit y subir la carpeta?
+Porque la carpeta ya no esta vacia
