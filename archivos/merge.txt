@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 Mi nombre es Abraham David Miguel Cardenas, tengo 18 años. Mis aspiraciones con la materia es aprender mucho sobre POO,java, python y github
+=======
+¿Por qué ahora si puedo crear un commit y subir la carpeta?
+Porque la carpeta ya no esta vacia
+>>>>>>> 94db9fa1fb6a2230e5dc4b8d13ae40ccf69a2424
